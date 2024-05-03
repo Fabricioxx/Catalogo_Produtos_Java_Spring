@@ -28,8 +28,39 @@ ctrl + shift + p // paleta de comandos
 > Abrir o Projeto:
 > Explorar e Modificar o Projeto:
 
-
 ```
+### Passos para instalar o JDK 21
+
+1.  **Baixar o JDK 21**:
+    
+    *   Acesse o site oficial da Oracle ou uma distribuição de JDK como Adoptium para baixar o JDK 21. Aqui estão os links diretos:
+        *   [Oracle JDK 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+        *   [Adoptium](https://adoptium.net/)
+2.  **Instalar o JDK 21**:
+    
+    *   Siga as instruções de instalação fornecidas pelo instalador ou pelo site. No Windows, geralmente envolve executar um arquivo `.exe` e seguir o assistente de instalação.
+3.  **Configurar o JAVA\_HOME**:
+    
+    *   Após instalar o JDK, você precisará configurar a variável de ambiente `JAVA_HOME` para apontar para o diretório onde o JDK 21 foi instalado. No Windows, você pode fazer isso acessando:
+        *   Painel de Controle > Sistema e Segurança > Sistema > Configurações avançadas do sistema > Variáveis de Ambiente.
+    *   Adicione uma nova variável de sistema chamada `JAVA_HOME` e defina seu valor para o caminho onde o JDK 21 foi instalado, por exemplo, `C:\Program Files\Java\jdk-21`.
+    *   Certifique-se também de adicionar o caminho do diretório `bin` do JDK ao `PATH`. Você pode fazer isso editando a variável `PATH` em Variáveis de Ambiente e adicionando `%JAVA_HOME%\bin` ao final.
+4.  **Atualizar a Configuração do VSCode**:
+    
+    *   No VSCode, atualize a configuração do JDK em `settings.json`. Adicione ou modifique a entrada para:
+        
+        json
+        
+        Copy code
+        
+        `"java.home": "C:\\Program Files\\Java\\jdk-21",`
+        
+5.  **Verificar a Instalação**:
+    
+    *   Abra um novo terminal ou prompt de comando e digite `java -version` para verificar se o JDK 21 está corretamente instalado e configurado.
+6.  **Reiniciar o VSCode**:
+    
+    *   Feche e reabra o VSCode para garantir que ele reconheça a nova configuração do JDK.
 
 
 
