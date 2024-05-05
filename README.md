@@ -64,6 +64,30 @@ ctrl + shift + p // paleta de comandos
 
 
 
+  ## Praticas Adotadas
+
+  ### SOLID
+
+SOLID é um acrônimo para cinco princípios de design orientado a objetos que ajudam os desenvolvedores a criar sistemas mais fáceis de manter e estender:
+
+1.  **Single Responsibility Principle (SRP)**: Uma classe deve ter apenas uma razão para mudar, significando que deve ter apenas uma tarefa ou responsabilidade.
+2.  **Open/Closed Principle (OCP)**: Entidades de software (classes, módulos, funções, etc.) devem estar abertas para extensão, mas fechadas para modificação.
+3.  **Liskov Substitution Principle (LSP)**: Objetos em um programa devem ser substituíveis por instâncias de suas subtipos sem afetar a correção do programa.
+4.  **Interface Segregation Principle (ISP)**: Nenhum cliente deve ser forçado a depender de métodos que não usa. Ou seja, é melhor ter muitas interfaces específicas do que uma interface única.
+5.  **Dependency Inversion Principle (DIP)**: Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes; detalhes devem depender de abstrações.
+
+### DRY (Don't Repeat Yourself)
+
+Este princípio enfatiza a importância de evitar a repetição de código. A ideia é reduzir a duplicação de conhecimento ou lógica para evitar inconsistências e erros, facilitando a manutenção do código.
+
+### YAGNI (You Ain't Gonna Need It)
+
+Originado na programação extrema (XP), este princípio aconselha os desenvolvedores a não adicionar funcionalidade até que seja realmente necessária. Isso ajuda a evitar a complexidade desnecessária e o trabalho extra que pode nunca ser usado ou valer a pena.
+
+### KISS (Keep It Simple, Stupid)
+
+KISS é um princípio de design que enfatiza a importância de manter o design de sistemas o mais simples possível. Isso ajuda a evitar complexidade desnecessária, tornando o sistema mais fácil de entender, manter e modificar.
+
 
 
 
