@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Aquarius",
+    "description": "Alimento completo para cães adultos.",
+    "price": 59.99,
+    "image": "/assets/images/aquarius.jpeg",
+    "category": "Alimentos"
+  },
+  {
+    "id": 2,
+    "title": "Ração para Gatos",
+    "description": "Ração balanceada para gatos adultos.",
+    "price": 64.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Alimentos"
+  },
+  {
+    "id": 3,
+    "title": "Arranhador para Gatos",
+    "description": "Mantém seu gato entretido e as unhas saudáveis.",
+    "price": 120.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Brinquedos"
+  },
+  {
+    "id": 4,
+    "title": "Coleira para Cães",
+    "description": "Coleira ajustável e confortável para seu cão.",
+    "price": 15.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  },
+  {
+    "id": 5,
+    "title": "Brinquedo Mordedor",
+    "description": "Brinquedo mordedor para cães, resistente e seguro.",
+    "price": 9.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Brinquedos"
+  },
+  {
+    "id": 6,
+    "title": "Caminha para Pets",
+    "description": "Caminha super confortável para cães e gatos.",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  },
+  {
+    "id": 7,
+    "title": "Shampoo para Gatos",
+    "description": "Shampoo natural e suave para gatos, sem lágrimas.",
+    "price": 12.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Saúde"
+  },
+  {
+    "id": 8,
+    "title": "Areia Sanitária",
+    "description": "Areia sanitária com alto poder de absorção.",
+    "price": 19.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Saúde"
+  },
+  {
+    "id": 9,
+    "title": "Petiscos para Cães",
+    "description": "Petiscos saudáveis e deliciosos para treinamento de cães.",
+    "price": 5.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Alimentos"
+  },
+  {
+    "id": 10,
+    "title": "Antipulgas para Gatos",
+    "description": "Solução eficaz contra pulgas e carrapatos para gatos.",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Saúde"
+  },
+  {
+    "id": 11,
+    "title": "Caixa de Transporte para Cães",
+    "description": "Caixa de transporte segura e confortável para cães de médio porte.",
+    "price": 70.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  },
+  {
+    "id": 12,
+    "title": "Fonte de Água para Gatos",
+    "description": "Fonte de água que incentiva gatos a beberem mais água, mantendo-os hidratados.",
+    "price": 50.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  },
+  {
+    "id": 13,
+    "title": "Casa para Gatos",
+    "description": "Casa confortável e aconchegante para gatos dormirem.",
+    "price": 85.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  },
+  {
+    "id": 14,
+    "title": "Osso Natural para Cães",
+    "description": "Osso natural que ajuda a manter a saúde bucal dos cães.",
+    "price": 15.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Brinquedos"
+  },
+  {
+    "id": 15,
+    "title": "Kit de Escovação Dental para Cães",
+    "description": "Kit completo para a higiene bucal de seu cão, inclui escova e pasta especial.",
+    "price": 20.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Saúde"
+  },
+  {
+    "id": 16,
+    "title": "Brinquedo Interativo para Gatos",
+    "description": "Brinquedo que estimula o instinto de caça e mantém seu gato ativo.",
+    "price": 30.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Brinquedos"
+  },
+  {
+    "id": 17,
+    "title": "Corda de Brincar para Cães",
+    "description": "Corda resistente para brincadeiras de puxar, ideal para cães de todas as idades.",
+    "price": 12.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Brinquedos"
+  },
+  {
+    "id": 18,
+    "title": "Almofada Térmica para Pets",
+    "description": "Almofada térmica para manter seu pet aquecido durante o inverno.",
+    "price": 45.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  },
+  {
+    "id": 19,
+    "title": "Suplemento Vitamínico para Gatos",
+    "description": "Suplemento vitamínico completo para a saúde e bem-estar de gatos.",
+    "price": 25.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Saúde"
+  },
+  {
+    "id": 20,
+    "title": "Peitoral Refletivo para Cães",
+    "description": "Peitoral refletivo que garante segurança durante passeios noturnos.",
+    "price": 40.00,
+    "image": "https://via.placeholder.com/150",
+    "category": "Acessórios"
+  }
+]
+

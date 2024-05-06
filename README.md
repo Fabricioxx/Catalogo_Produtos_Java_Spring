@@ -6,11 +6,27 @@
     
 *   **Java Extension Pack**: Este pacote inclui todas as ferramentas essenciais para desenvolvimento Java no VSCode. Ele inclui Language Support for Java(TM) by Red Hat, Debugger for Java, Test Runner for Java, Maven for Java, e mais. Essas extensões fornecem suporte para edição de código, debugging, execução de testes, e gerenciamento de projetos Maven.
     
-*   **Lombok Annotations Support for VS Code**: Se você usa Lombok para reduzir o boilerplate no Java, essa extensão ajuda o VSCode a lidar com as anotações do Lombok, permitindo que a ferramenta entenda e processe os getters, setters, e outros métodos gerados automaticamente.
-    
 *   **Spring Boot Tools**: Esta extensão fornece suporte para trabalhar com a configuração de aplicativos Spring Boot. Ela oferece validação e autocompletação para propriedades de configuração em arquivos 'application.properties' ou 'application.yml'.
     
 *   **Spring Initializr Java Support**: Esta extensão permite que você rapidamente gere um novo projeto Spring Boot usando o Spring Initializr diretamente do VSCode.
+
+
+
+### Web Security 
+```
+> Cors
+> JWT
+> Rate Limit
+> Validação de Entrada (SQL injection e XSS)
+> Proteção contra ataques CSRF
+> Habilitar HTTPS
+> Segurança de Cookie com HTTPOnly
+> Auditoria e Monitoramento
+> Firewall de Aplicativo Web (WAF)
+> Práticas de Desenvolvimento Seguro
+> Atualizações regulares
+> Testes de Segurança
+```
 
 
 ### Gerar um Projeto Spring Boot no VSCode

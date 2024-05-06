@@ -1,0 +1,31 @@
+/* Detalhes.style.css */
+.detalhes-container {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  
+  .detalhes-container img {
+
+    padding-top: 50px;
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+
+  .detalhes-container button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+  /* Estilizações adicionais conforme necessário */
+  
+
+
+

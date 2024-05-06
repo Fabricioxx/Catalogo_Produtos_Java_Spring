@@ -1,0 +1,53 @@
+/* style.css - Adicione isso ao seu arquivo de estilos existente */
+.product-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px; /* Aumentar a largura se necessário */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Organiza o conteúdo do card em coluna */
+    align-items: center; /* Centraliza o conteúdo horizontalmente */
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto; /* Mantém a proporção da imagem */
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .product-card .product-code {
+    color: #ccc; /* Cinza claro */
+    font-size: 0.85em; /* Um pouco menor que o tamanho padrão do texto */
+    margin-top: -10px; /* Ajuste conforme necessário para o espaçamento */
+  }
+  
+  .actions {
+    width: 100%; /* Assegura que os botões não saiam para fora do card */
+    display: flex;
+    justify-content: space-around; /* Distribui os botões uniformemente */
+    margin-top: 10px;
+  }
+  
+  button {
+    flex-grow: 1; /* Faz os botões crescerem para preencher o espaço */
+    margin: 0 4px; /* Espaçamento entre os botões */
+    padding: 5px 10px;
+  }
+
+  
+  .actions button, .actions a button {
+    padding: 8px 16px;
+    margin: 0 5px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .actions a {
+    text-decoration: none; /* Remove sublinhado dos links */
+  }
+  

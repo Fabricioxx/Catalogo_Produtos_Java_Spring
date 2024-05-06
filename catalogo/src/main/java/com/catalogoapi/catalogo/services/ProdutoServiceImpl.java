@@ -1,6 +1,6 @@
 package com.catalogoapi.catalogo.services;
 
-import org.springframework.data.crossstore.ChangeSetPersister.NotFoundException;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
@@ -14,6 +14,7 @@ import reactor.core.publisher.Mono;
 @Service
 public class ProdutoServiceImpl implements ProdutoService {
 
+    @Autowired
     private final ProdutoRepository repository;
 
     public ProdutoServiceImpl(ProdutoRepository repository) {
