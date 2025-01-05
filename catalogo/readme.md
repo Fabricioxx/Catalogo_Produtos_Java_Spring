@@ -104,5 +104,3 @@ $ http DELETE :8080/todos/1
 ### 7. **Async and Task Execution Configuration**
 
 ---
-
-Você pode acessar o arquivo completo [aqui](https://github.com/Fabricioxx/Catalogo_Produtos_Java_Spring/blob/eb270876e4e46a02f8a9135bc21a222fa0f48abc/catalogo/readme.md).
